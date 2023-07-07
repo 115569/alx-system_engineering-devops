@@ -1,3 +1,2 @@
-[master 05dcd3c] My shell permission
- 2 files changed, 2 insertions(+), 1 deletion(-)
- create mode 100644 0x01-shell_permissions/README.md
+#!bin/bash
+su betty
